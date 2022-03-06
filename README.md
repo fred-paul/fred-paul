@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fred-paul
-- 👀 I’m interested in data science and AI
+- 👀 I’m interested in data science,ML and AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on all big data and automation projects 
 - 📫 How to reach me at senecasboy@gmai.com
